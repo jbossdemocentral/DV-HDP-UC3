@@ -1,7 +1,7 @@
 {
   "name":"Data Virtualization and Hortonworks Data Lake",
-  "summary":"This demo shows an example of a Data Lake with Hortonworks Data Platform and Data Virtualization",
-  "author":"Kenneth Peeples, Cojan ",
+  "summary":"This demo shows an example of a Data Lake with Hortonworks Data Platform and Data Virtualization.  This is DV and HDP Use Case 3.",
+  "author":"Kenneth Peeples, Cojan van Ballegooijen",
   "category":"dv",
   "categories":["dv"],
   "level":"advanced",
